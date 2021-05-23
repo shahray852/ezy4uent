@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<title>EZY4U</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Comic Sans MS", Arial, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+<body>
+<body style="background-color:#2B1B17 ;">
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+	<a href="#home" class="w3-bar-item w3-button"><b>EZY4U</b></a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#menu" class="w3-bar-item w3-button">Menu</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <center><img class="w3-image" src="bg1.jpg" alt="Hamburger Catering" width="1600" height="800"></center>
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+     <img src="ezy4u.png" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center"><p class="w3-large w3-text-white w3-hide-medium">ABOUT US</h1><br>
+      <h5 class="w3-center"><p class="w3-large w3-text-orange w3-hide-medium">EZY4U</h5>
+      <center><p class="w3-large w3-text-yellow w3-hide-medium">Our company name is Ezy4u and it is located in Shah Alam , which was established
+in 2018. The main activity for the business is to provide easy to cook meals to cater demand
+in Klang Valley since 3 years ago. The company is a partnership business. The key partners
+of the company are Fairuz Aida (60% of shareholders) and Shah Rukh Khan (40% of
+shareholders) who both have vast experience in the business especially in the food and
+beverages industry.</p><center>
+<h5 class="w3-center"><p class="w3-large w3-text-orange w3-hide-medium">Vision</h5>
+      <center><p class="w3-large w3-text-yellow w3-hide-medium">To be one of the best company that provide healthy and delicious ready to cook meals in
+Malaysia.</p><center>
+<h5 class="w3-center"><p class="w3-large w3-text-orange w3-hide-medium">Mission</h5>
+<p class="w3-large w3-text-yellow w3-hide-medium">
+1. Maintaining high proficiency standards in management, production and creativity.
+<br>
+<br>
+2. To deliver good delivery services for consumers to experience with the products.
+<br>
+<br>
+3. Growing with our customers by listening to their feedback.</p>
+<h5 class="w3-center"><p class="w3-large w3-text-orange w3-hide-medium">Objectives</h5>
+<p class="w3-large w3-text-yellow w3-hide-medium">
+1. To ensure the business operation with good teamworks.
+<br>
+<br>
+2. To be creative in preparing new healthier and delicious meals in the future.
+<br>
+<br>
+3. To maintain good quality of the products from time to time.
+<br>
+<br>
+4. To respond with customer’s comments and make improvements for better future
+performance.</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  <!-- Menu Section -->
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center"><p class="w3-large w3-text-white w3-hide-medium">MENU</h1><br>
+      <h4><p class="w3-text-orange">Breakfast</h4>
+      <p class="w3-text-yellow ">
+1. Scrambled Eggs and Chicken Sausages.
+<br>
+<br>
+2. Raspberry toaster pastries.
+<br>
+<br>
+3. Mix Fresh Cut Traditional Fruit Bowl.
+<br>
+<br>
+4. Organic Waffles, Homestyle with family pack.</p><br>
+       <h4><p class="w3-text-orange">Lunch</h4>
+      <p class="w3-text-yellow ">
+1. Butter Chicken with Basmati Rice Bowl.
+<br>
+<br>
+2. Singapore Noodles with Chicken &amp; Shrimp include family pack.
+<br>
+<br>
+3. Peruvian Style Chicken Meal.
+<br>
+<br>
+4. Ready To Eat Black Pepper Teriyaki Salmon with Mushrooms.</p><br> 
+<h4><p class="w3-text-orange">Dinner</h4>
+      <p class="w3-text-yellow ">
+1. Mozzarella Sticks that include family pack.
+<br>
+<br>
+2. Lemon Garlic Chicken Breasts with family pack.
+<br>
+<br>
+3. Spiral Sliced Bone-In Brown Sugar Cured Ham.
+<br>
+<br>
+4. Organic Chicken Tortilla Soup.</p><br>  
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="ff.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-64" id="contact">
+    <h1 class="w3-center"><p class="w3-large w3-text-white w3-hide-medium">CONTACT US</h1><br>
+    <p class="w3-large w3-text-orange w3-hide-medium">We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
+    <p class="w3-text-yellow w3-large">Located at Shah Alam, Selangor</p>
+    <p class="w3-large w3-text-orange w3-hide-medium">You can also contact us by phone 017-5546325 (Badri) or email ezy4ufood@gmail.com, or you can place your order here:</p>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Your order at EZY4U" required name="People"></p>
+      <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder="Date and time" required name="date" value="Order Date & Time"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Comments" required name="Message"></p>
+      <p><button class="w3-button w3-orange w3-section" type="submit">SUBMIT</button></p>
+    </form>
+  </div>
+
+<!--Gambar Bulat-->
+<hr>
+  <h1 class="w3-center"><p class="w3-large w3-text-white w3-hide-medium">STAFF</h1><br>
+  <img src="bad.png" alt="Avatar"class= alt="Avatar" style="width:30%"><img src="peruz.png" alt="Avatar"class= alt="Avatar" style="width:15%"> <img src="srk.png" alt="Avatar"class= alt="Avatar" style="width:20%"><img src="auni.png" alt="Avatar"class= alt="Avatar" style="width:15%"><img src="ecah.png" alt="Avatar"class= alt="Avatar" style="width:18%">
+    </div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-orange w3-padding-32">
+  <p>This Page is for Education Purpose in Subject ENT530. Thank You For Visit This Website</a></p>
+</footer>
+
+</body>
+</html>
